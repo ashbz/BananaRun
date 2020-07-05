@@ -1,5 +1,7 @@
 # BananaRun
-A simple demo I made to learn the basics of Unity3D. Just a banana that runs around, shoots bullets that do nothing and coins that make a cool sound when you collide with them. 
+A simple demo I made back in 2014 to learn the basics of Unity3D. 
+
+Just a 2d banana that runs around, shoots bullets that do nothing and coins that make a cool sound when you collide with them. 
 
 Also included the spritesheet that was made with [PyxelEdit](https://pyxeledit.com/)
 
